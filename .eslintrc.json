@@ -38,7 +38,7 @@
     "consistent-return": "off",
     "camelcase": "off",
     "@typescript-eslint/camelcase": "off",
-    "no-unused-vars": ["error", { "argsIgnorePattern": ["next", "_"] }]
+    "@typescript-eslint/no-unused-vars": ["error", { "argsIgnorePattern": ["next", "_"] }]
   },
   "settings": {
     "import/resolver": {
