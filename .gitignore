@@ -3,11 +3,17 @@
 .env
 node_modules/
 build/
+
 tmp/*
+!tmp/uploads
 !tmp/.gitkeep
-temp/
+
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+!tmp/uploads/placeholder.png
+
 coverage/
 ormconfig.json
-!tmp/.gitkeep
+
 
 
