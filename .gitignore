@@ -2,7 +2,7 @@
 .vscode/
 .env
 node_modules/
-build/
+dist/
 
 tmp/*
 !tmp/uploads
